@@ -18,7 +18,8 @@ header{
 .container{
     background-color: #eee;
     min-height: 60vh;
-    padding: 50px;
+    padding: 60px;
+    border: 40px;
 }
 
 .products-container{
@@ -33,42 +34,10 @@ header{
     padding: 15%;
 }
 
-.product-image{
+#img1{
     height: 300px;
-    width: 100%;
+    width: 2000%;
     margin-bottom: 10px;
-    background-position: center;
-    background-size: cover;
-}
-
-#img-1{
-    background-image: url(../códigos/aspirador\ 1.jpg);
-
-}
-
-#img-2{
-    background-image: url(../códigos/aspirador\ 2.jpg);
-
-}
-
-#img-3{
-    background-image: url(../códigos/aspirador\ 3.jpg)
-
-}
-
-#img-4{ 
-    background-image: url(../códigos/aspirador\ 4.jpg)
-
-}
-
-#img-5{
-    background-image: url(../códigos/aspirador\ \ 5.jpg)
-
-}
-
-#img-6{
-    background-image: url(../códigos/aspirador\ 6.jpg)
-
 }
 
 h3{
@@ -89,7 +58,7 @@ h3{
 
 .btn{
     display: block;
-    width: 100%;
+    width: 1000%;
     text-align: center;
     text-transform: uppercase;
     text-decoration: none;
